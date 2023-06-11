@@ -3,8 +3,8 @@ const { SecretsManagerClient, GetSecretValueCommand } = require('@aws-sdk/client
 const clientConfig = {
     region: 'us-east-2',
     credentials: {
-      accessKeyId: 'AKIA3K53E44ARFVGFC7M',
-      secretAccessKey: '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',
+      accessKeyId: '',
+      secretAccessKey: 'yo4ua5cv+',
     },
   };
 
